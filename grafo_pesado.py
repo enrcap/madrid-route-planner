@@ -1,6 +1,6 @@
 """Algoritmos propios de caminos y bosques mínimos con colas de prioridad.
 
-Proyecto de Matemática Discreta (IMAT, ICAI): Enrique Capella y Mateo Gómez-Acebo.
+Proyecto de Matemática Discreta (IMAT, ICAI): Enrique Capella.
 """
 
 from itertools import count

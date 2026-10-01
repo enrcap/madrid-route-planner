@@ -6,7 +6,7 @@
 Compara recorridos por distancia, tiempo estimado y espera en semáforos sobre una
 red real de OpenStreetMap, y representa el resultado con la geometría de las calles.
 
-Proyecto académico de **Enrique Capella y Mateo Gómez-Acebo**, desarrollado en
+Proyecto académico de **Enrique Capella**, desarrollado en
 Matemática Discreta (IMAT, ICAI, Universidad Pontificia Comillas).
 
 ![Comparación de rutas en el centro de Madrid](docs/demo.png)
@@ -161,8 +161,7 @@ docs/demo.png          Resultado real de la demo
 
 ## Autoría y datos
 
-Trabajo original de Enrique Capella y Mateo Gómez-Acebo. La edición para portfolio
-añade correcciones, pruebas y documentación con asistencia de Codex.
+Autor del código: **Enrique Capella**.
 Véase [NOTICE.md](NOTICE.md) para autoría y situación de la licencia del código.
 
 Cartografía: © OpenStreetMap contributors,

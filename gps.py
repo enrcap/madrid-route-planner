@@ -1,6 +1,6 @@
 """Planificador de rutas por distancia, tiempo y espera en semáforos.
 
-Proyecto de Matemática Discreta (IMAT, ICAI): Enrique Capella y Mateo Gómez-Acebo.
+Proyecto de Matemática Discreta (IMAT, ICAI): Enrique Capella.
 """
 
 import argparse

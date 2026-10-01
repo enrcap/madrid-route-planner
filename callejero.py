@@ -1,6 +1,6 @@
 """Carga de direcciones y redes viarias de Madrid.
 
-Proyecto de Matemática Discreta (IMAT, ICAI): Enrique Capella y Mateo Gómez-Acebo.
+Proyecto de Matemática Discreta (IMAT, ICAI): Enrique Capella.
 """
 
 from pathlib import Path

@@ -1,12 +1,11 @@
 # Autoría y atribuciones
 
-Proyecto académico original de **Enrique Capella** y **Mateo Gómez-Acebo**, grupo
+Autor del código: **Enrique Capella**. Proyecto académico del grupo
 GP12A, asignatura Matemática Discreta, IMAT, ICAI, Universidad Pontificia Comillas.
 
 Esta edición conserva el planteamiento y los algoritmos del trabajo y añade
 correcciones de rutas, validaciones, una interfaz de línea de comandos,
-documentación y pruebas. La preparación posterior para el portfolio se realizó
-con asistencia de Codex. No se atribuye a una sola persona todo el trabajo de equipo.
+documentación y pruebas.
 
 El ZIP original no incluía una licencia de software ni diferenciaba todos los
 materiales docentes del código de los alumnos. Por eso esta publicación no añade
@@ -25,4 +24,4 @@ Los datos se rigen por sus licencias propias:
   se identifica por el esquema, pues no se aportaron metadatos de descarga.
 
 Las imágenes generadas muestran la atribución cartográfica. Los recortes de datos
-incluidos conservan sus licencias; no se presentan como datos creados por los autores.
+incluidos conservan sus licencias; no se presentan como datos creados por el autor.
