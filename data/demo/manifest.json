@@ -1,0 +1,25 @@
+{
+  "description": "Recorte del centro de Madrid a partir del ZIP del proyecto académico.",
+  "source_snapshot_date": "Desconocida; no se presenta como cartografía actualizada.",
+  "bbox_west_south_east_north": [
+    -3.725,
+    40.412,
+    -3.681,
+    40.44
+  ],
+  "nodes": 1534,
+  "edges": 2734,
+  "addresses": 2,
+  "source_sha256": {
+    "madrid.graphml": "507df96c1c8ea2d2d2c57dc1f241ed9a23fb2fdaf4b8c34a4d64acef7a9e5805",
+    "direcciones.csv": "60ae34da4aaa2d9ce490c01d4842dc7120506a36556860993b2bb50975561860"
+  },
+  "sources": {
+    "graph": "https://www.openstreetmap.org/copyright",
+    "addresses": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid"
+  },
+  "licenses": {
+    "graph": "ODbL-1.0",
+    "addresses": "CC-BY-4.0"
+  }
+}

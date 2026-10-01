@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+.venv/
+venv/
+cache/
+.env
+.DS_Store
+data/direcciones.csv
+data/madrid.graphml
+route.png
